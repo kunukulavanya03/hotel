@@ -1,0 +1,5 @@
+fastapi
+sqlalchemy
+postgresql
+python-dotenv
+dotenv
